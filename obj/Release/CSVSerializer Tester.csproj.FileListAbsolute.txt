@@ -1,0 +1,8 @@
+C:\Users\Douglasg14b\Documents\Visual Studio 2015\Projects\CSVSerializer Tester\CSVSerializer Tester\bin\Release\CSVSerializer Tester.exe.config
+C:\Users\Douglasg14b\Documents\Visual Studio 2015\Projects\CSVSerializer Tester\CSVSerializer Tester\bin\Release\CSVSerializer Tester.exe
+C:\Users\Douglasg14b\Documents\Visual Studio 2015\Projects\CSVSerializer Tester\CSVSerializer Tester\bin\Release\CSVSerializer Tester.pdb
+C:\Users\Douglasg14b\Documents\Visual Studio 2015\Projects\CSVSerializer Tester\CSVSerializer Tester\bin\Release\CSVSerializer.dll
+C:\Users\Douglasg14b\Documents\Visual Studio 2015\Projects\CSVSerializer Tester\CSVSerializer Tester\bin\Release\CSVSerializer.pdb
+C:\Users\Douglasg14b\Documents\Visual Studio 2015\Projects\CSVSerializer Tester\CSVSerializer Tester\obj\Release\CSVSerializer Tester.csprojResolveAssemblyReference.cache
+C:\Users\Douglasg14b\Documents\Visual Studio 2015\Projects\CSVSerializer Tester\CSVSerializer Tester\obj\Release\CSVSerializer Tester.exe
+C:\Users\Douglasg14b\Documents\Visual Studio 2015\Projects\CSVSerializer Tester\CSVSerializer Tester\obj\Release\CSVSerializer Tester.pdb
